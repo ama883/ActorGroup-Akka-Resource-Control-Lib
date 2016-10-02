@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="lib" path="C:/akka-lib/akka-actor_2.11-2.3.11.jar" sourcepath="C:/akka-source-code"/>
+	<classpathentry exported="true" kind="lib" path="C:/akka-lib/config-1.2.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/akka-lib/scala-library-2.11.5.jar" sourcepath="C:/scala-2.12.x"/>
+	<classpathentry exported="true" kind="lib" path="C:/akka-lib/scala-reflect-2.11.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/akka-lib/scala-stm_2.11-0.7.jar"/>
+	<classpathentry kind="lib" path="C:/akka-lib/not used/jna-3.0.9.jar"/>
+	<classpathentry kind="lib" path="C:/akka-lib/not used/slf4j-api-1.7.5.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
